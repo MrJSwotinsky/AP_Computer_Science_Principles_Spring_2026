@@ -29,5 +29,6 @@ Due: Friday, January 30th 2026
   4. Create a folder for assignments in your portfolio titled `LastNameFirstInitial_Assignments`.
   5. Create a file in your assignments folder titled `LastNameFirstInitial_My_First_Group.py`
   6. Copy/Paste your code from the sandbox to `LastNameFirstInitial_My_First_Group.py`.
+  7. Commit your work.
 
      **Remember to include an appropriate commit message**.
