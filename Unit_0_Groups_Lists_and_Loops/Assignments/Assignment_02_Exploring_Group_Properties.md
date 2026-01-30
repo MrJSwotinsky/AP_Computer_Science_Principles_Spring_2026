@@ -15,10 +15,27 @@ Due: Monday, February 2nd 2026
     car = Group(front_wheel, back_wheel, bottom, top)
     ```
 
-2.  Explore group properties and document your progress - **THIS SECTION OF THE ASSIGNMENT IS NOT YET COMPLETE.  PLEASE CHECK BACK FOR DETAILS**
+2.  Add an `onMousePress()` event to explore how you can modify shape properties for your group by clicking the mouse.
+<br><br>*For example,*
+    ```python
+    def onMousePress(mouseX, mouseY):
+        car.centerX += 10
+    ```
+3.  Explore with a variety of different [`shape properties`](https://academy.cs.cmu.edu/docs/generalShapeProperties), such as...
 
-3. Create a file in your assignments folder titled `LastNameFirstInitial_Exploring_Group_Properties.py`
-4. Copy/Paste your code from the sandbox to `LastNameFirstInitial_Exploring_Group_Properties.py`.
-5. Commit your work.
+* `left`, `right`, `top`, `bottom`, `centerX`, `centerY`
+* `width`, `height`
+* `fill`, `opacity`
+* `rotateAngle`
+* `visible`
+    
+4.  Use code comments to document at least 5 discoveries. 
+<br><br>*For example,*
+    ```python
+    # I can use the command, car.rotate = 45, to rotate my group 45 degrees clockwise around its center.
+    ```
+5. Create a file in your assignments folder titled `LastNameFirstInitial_Exploring_Group_Properties.py`
+6. Copy/Paste your code from the sandbox to `LastNameFirstInitial_Exploring_Group_Properties.py`.
+7. Commit your work.
 
      **Remember to include an appropriate commit message**.
