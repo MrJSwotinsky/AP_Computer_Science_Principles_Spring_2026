@@ -2,7 +2,7 @@
 Due: Tuesday, February 3rd 2026
 
 ### CMU Graphics, Intro to Groups Exercises (3.1.2)
-1.  Complete CMU Graphics Intro to Groups Exercises
+1.  Complete CMU Graphics Intro to Groups Exercises (3.1.2)
 2.  To receive credit, you must earn a minimum of 3 points.
 3.  If you need some additional practice, complete additional exercises.
 
