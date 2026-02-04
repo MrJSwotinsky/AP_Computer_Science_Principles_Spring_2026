@@ -1,4 +1,4 @@
-## Unit 0, Assignment 4 - CMU Graphics, Group Methods Exercises
+## Unit 0, Assignment 4 - CMU Graphics, 3.1.4 - Group Methods Exercises
 Due: Wednesday, February 4th 2026
 
 ### CMU Graphics, Intro to Groups Exercises (3.1.4)
