@@ -1,4 +1,4 @@
-## Unit 0, Assignment 3 - CMU Graphics, Intro to Groups Exercises
+## Unit 0, Assignment 3 - CMU Graphics, 3.1.2 - Intro to Groups Exercises
 Due: Tuesday, February 3rd 2026
 
 ### CMU Graphics, Intro to Groups Exercises (3.1.2)
